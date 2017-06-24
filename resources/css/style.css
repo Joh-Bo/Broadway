@@ -16,6 +16,8 @@ body{
   list-style-type: none;
   color: white;
   font-size: 18px;
+  text-decoration: underline;
+  padding-bottom: 10px;
 }
 
 #title{
@@ -32,5 +34,16 @@ body{
 #header_2{
   font-size: 23px;
   Font-weight: bold;
+  color: white;
+}
+#footer_general{
+  width: 100%;
+  background: dimgray;
+  text-align: left;
+}
+.footer li, a{
+  list-style-type: none;
+  display: inline;
+  font-size: 11px;
   color: white;
 }
