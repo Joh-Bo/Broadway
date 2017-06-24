@@ -14,12 +14,12 @@ body{
 }
 #menu li{
   list-style-type: none;
+  padding-bottom: 10px;
+  }
+#menu li a{
   color: white;
   font-size: 18px;
-  text-decoration: underline;
-  padding-bottom: 10px;
 }
-
 #title{
   font-weight: bold;
   font-size: 32px;
@@ -35,6 +35,7 @@ body{
   font-size: 23px;
   Font-weight: bold;
   color: white;
+  background-image: url(../images/the-flatiron-building.png);
 }
 #footer_general{
   width: 100%;
