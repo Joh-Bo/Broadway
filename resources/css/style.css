@@ -41,7 +41,9 @@ body{
   /*width: 100%;*/
   background: dimgray;
   text-align: left;
-  padding: 0;
+}
+#footer_general ul{
+padding: 0;
 }
 .footer li, a{
   list-style-type: none;
