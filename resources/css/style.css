@@ -38,9 +38,10 @@ body{
   background-image: url(../images/the-flatiron-building.png);
 }
 #footer_general{
-  width: 100%;
+  /*width: 100%;*/
   background: dimgray;
   text-align: left;
+  padding: 0;
 }
 .footer li, a{
   list-style-type: none;
